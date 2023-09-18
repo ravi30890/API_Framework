@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API-Testing Framework using rest assured">
+    <test name="Testing-Classes">
+        <classes>
+            <class name="TC_AddPet"/>
+            <class name="TC_GetPet"/>
+            <class name="TC_ModifyPet"/>
+            <class name="TC_AddUser"/>
+            <class name="TC_GetUser"/>
+            <class name="TC_ModifyUser"/>
+        </classes>
+    </test>
+</suite>
